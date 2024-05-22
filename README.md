@@ -25,9 +25,9 @@
 
 ## GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=StafaAlasady&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StafaAlasady&layout=compact&theme=radical)
 
 
 ![Project Image](https://github.com/your-username/project-name/raw/main/screenshot.png)
