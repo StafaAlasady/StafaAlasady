@@ -30,12 +30,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=StafaAlasady&layout=compact&theme=radical)
 
 
-![Project Image](https://github.com/your-username/project-name/raw/main/screenshot.png)
-
-### [Another Project](https://github.com/your-username/another-project)
-Brief description of the project.
-
-![Project Image](https://github.com/your-username/another-project/raw/main/screenshot.png)
 
 ## Connect with Me
 
