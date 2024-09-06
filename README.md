@@ -1,12 +1,6 @@
 # Yooo, I'm [Stafa]! 👋
 
 
-## About Me
-
-- 🌱 I’m currently learning **[Godot Engine]**
-- 📫 How to reach me: **[Mustafa.alasady@outlook.com]**
-- ⚡ Fun fact: **[i workout and like to invest]**
-
 ## Technologies & Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
