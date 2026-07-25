@@ -3,6 +3,8 @@
 
 ## Technologies & Tools
 
+![C++](https://img.shields.io/badge/-C%2B%2B-black?style=flat-square&logo=cplusplus)
+![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
@@ -12,7 +14,7 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![CSS3](https://img.shields.io/badge/-CSS3-black?style=flat-square&logo=css3)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-black?style=flat-square&logo=tailwind-css)
-![C#](https://img.shields.io/badge/-C%23-black?style=flat-square&logo=c-sharp)
+
 
 
 
@@ -24,5 +26,5 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mustafa-alasady-7b9418220/)
-[![Email](https://img.shields.io/badge/Email-Send-blue?style=flat-square&logo=gmail)](Mustafa.alasady@outlook.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mustafa-alasady-7b9418220/)
+[![Email](https://img.shields.io/badge/Email-Send-blue?style=flat-square&logo=gmail)](mailto:Mustafa.alasady@outlook.com)
