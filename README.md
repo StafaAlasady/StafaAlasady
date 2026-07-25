@@ -24,5 +24,5 @@
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mustafa-alasady-7b9418220)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin)](www.linkedin.com/in/mustafa-alasady-7b9418220/)
 [![Email](https://img.shields.io/badge/Email-Send-blue?style=flat-square&logo=gmail)](Mustafa.alasady@outlook.com)
